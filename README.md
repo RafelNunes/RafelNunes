@@ -1,7 +1,7 @@
 ## Olá, Meu nome é Rafael Nunes 🐱‍💻
 
 
-💻 Atualmente estou aprendendo front-end e cursando Análise e Desenvolvimento e Sistemas
+💻 Atualmente estou aprendendo front-end e cursando Análise e Desenvolvimento de Sistemas.
 
 <div align="center">
   <a href="https://github.com/RafelNunes">
