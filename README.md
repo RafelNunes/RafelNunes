@@ -3,8 +3,8 @@
 
 💻 Atualmente estou aprendendo front-end e cursando Análise e Desenvolvimento e Sistemas
 
-<div align="center" style="columns=2">
+<div align="center">
   <a href="https://github.com/RafelNunes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafelNunes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafelNunes&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api?username=RafelNunes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafelNunes&layout=compact&langs_count=7&theme=dark"/>
 </div>
